@@ -1,1 +1,1 @@
-"# JavaScript-Starter-Kit" 
+# JavaScript-Starter-Kit
